@@ -13,7 +13,7 @@ Passionate about the intersection of artificial intelligence and cybersecurity, 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Tom546F6D/SIEM-Project">SIEM Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Malware Traffic Analysis</a>|
-| TryHackMe - HackTheBox                        | <a href="">BlackBox Labs</a>|
+| TryHackMe - HackTheBox                        | <a href="https://github.com/Tom546F6D/BlackBox-Labs/tree/main">BlackBox Labs</a>|
 | Python                                        |
 
 ### Network
