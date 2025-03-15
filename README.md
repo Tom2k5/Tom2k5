@@ -28,7 +28,7 @@ Passionate about the intersection of artificial intelligence and cybersecurity, 
 
 ## Certifications
 <div>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/AnonyKma.png" alt="Your Image Badge" />
+    <span><img src="https://tryhackme-badges.s3.amazonaws.com/AnonyKma.png" alt="Your Image Badge" /></span>
     <img src="https://img.shields.io/badge/-CCNA-1A73E8?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
