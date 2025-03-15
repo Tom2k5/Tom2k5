@@ -1,4 +1,4 @@
-# Hello, I'm The Anh
+# Hello, I'm Tang
 <a href="https://www.linkedin.com/in/tang-the-anh-b0538b312/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 As a second-year student with my experience and a strong ability to learn, I am eager to leverage my expertise and passion to protect and secure information for your reputable company. My ultimate goal is to contribute to your organization by applying my skills and dedication to ensure the highest standards of data integrity and security. I am excited about the opportunity to join your security team and make a meaningful impact.
