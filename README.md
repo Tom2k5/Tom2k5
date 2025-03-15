@@ -28,6 +28,7 @@ Passionate about the intersection of artificial intelligence and cybersecurity, 
 
 ## Certifications
 <div>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2320346" style='border:none;'></iframe>
 <img src="https://img.shields.io/badge/-CCNA-1A73E8?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
