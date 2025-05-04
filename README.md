@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'am Tang
 As a second-year student with my experience and a strong ability to learn, I am eager to leverage my expertise and passion to protect and secure information for your reputable company. My ultimate goal is to contribute to your organization by applying my skills and dedication to ensure the highest standards of data integrity and security. I am excited about the opportunity to join your security team and make a meaningful impact.
 
 
