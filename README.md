@@ -1,10 +1,8 @@
 
-# Hello, I'm CHANGEME
+# Hello, I'm Tang The Anh
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a second-year Information Security engineering student with a strong interest in cybersecurity and hands-on system defense. I have a foundational understanding of network protocols, system monitoring, and log analysis, and I actively practice simulating cyberattacks and defensive techniques in lab environments using virtual machines and other platform. I am eager to gain real-world experience in a SOC environment, where I can apply my knowledge, learn from professionals, and grow into a future threat hunting.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
@@ -18,10 +16,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Wazuh Automation with Shuffle SOAR         | SOC Automation Lab |
+| AI-driven Window Forensic  | Future |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
