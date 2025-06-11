@@ -22,9 +22,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IELTS-0A0A0A?&style=for-the-badge&logo=BritishCouncil&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TOEIC-1E90FF?&style=for-the-badge&logo=ETS&logoColor=white" />
-
 </div>
 
 ### SIEM
@@ -35,5 +32,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CCNA-2962FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA-2962FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IELTS-0A0A0A?&style=for-the-badge&logo=BritishCouncil&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TOEIC-1E90FF?&style=for-the-badge&logo=ETS&logoColor=white" />
 </div>
