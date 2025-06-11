@@ -10,11 +10,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
-| Project                                         | Associated Project         |
+| Project                                         | Associated Link         |
 |-----------------------------------------------|----------------------------|
 | Leveraging Splunk and ELK in Detecting Attacker Behavior         | <a href="https://google.com">Here</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Here</a>|
 | Hunting For Stuxbot | <a href="https://google.com">Here</a>|
+| Research on Attack Techniques in the MITRE ATT&CK      | <a href="https://google.com">A newly started project</a> |
 | Wazuh Automation with Shuffle SOAR         | <a href="https://google.com">A newly started project</a> |
 | AI-driven Window Forensic  | Future |
 
