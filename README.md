@@ -2,7 +2,7 @@
 # Hello, I'm Tang The Anh
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a second-year Information Security engineering student with a strong interest in cybersecurity and hands-on system defense. I have a foundational understanding of network protocols, system monitoring, and log analysis, and I actively practice simulating cyberattacks and defensive techniques in lab environments using virtual machines and other platform. I am eager to gain real-world experience in a SOC environment, where I can apply my knowledge, learn from professionals, and grow into a future threat hunting.
+I am a second-year Information Security engineering student with a strong interest in cybersecurity and hands-on system defense. I have a foundational understanding of network protocols, system monitoring, and log analysis, and I actively practice simulating cyberattacks and defensive techniques in lab environments using virtual machines and other platforms. I am eager to gain real-world experience in a SOC environment, where I can apply my knowledge, learn from professionals, and grow into a future threat hunting.
 
 ## Objective
 
