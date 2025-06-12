@@ -18,7 +18,7 @@ My journey in cybersecurity has led me to develop a passion for cybersecurity, a
 | Research on Attack Techniques in the MITRE ATT&CK      | <a href="https://github.com/Tom2k5/Attacking-Technique">A newly started project</a> |
 | Shuffle SOAR with Wazuh         | <a href="https://github.com/Tom2k5/SIEM-Project">A newly started project</a> |
 | AI-driven Window Forensic  | Future |
-| •	Labs on platforms (Tryhackme, Hackthebox, PortSwigger,…)         | <a href="https://github.com/Tom2k5/Lab-writeups">Here</a> |
+| Labs on platforms (Tryhackme, Hackthebox, PortSwigger,…)         | <a href="https://github.com/Tom2k5/Lab-writeups">Here</a> |
 
 ### Network
 <div>
