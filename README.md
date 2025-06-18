@@ -13,6 +13,7 @@ My journey in cybersecurity has led me to develop a passion for cybersecurity, a
 | Project                                         | Associated Link         |
 |-----------------------------------------------|----------------------------|
 | Leveraging SIEM in Detecting Attacker Behavior         | <a href="https://github.com/Tom2k5/SIEM-Labs">Here</a>|
+| Log Configuration (Windows, Powershell, Sysmon,...)        | <a href="https://github.com/Tom2k5/Log-Configuration">In progress</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tom2k5/Network-Traffic-Analysis">Here</a>|
 | Hunting For Stuxbot | <a href="https://github.com/Tom2k5/Threat-Hunting">Here</a>|
 | Research on Attack Techniques in the MITRE ATT&CK      | <a href="https://github.com/Tom2k5/Attacking-Technique">In progress</a> |
