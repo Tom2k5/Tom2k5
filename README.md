@@ -17,7 +17,7 @@ My journey in cybersecurity has led me to develop a passion for cybersecurity, a
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tom2k5/Network-Traffic-Analysis">Here</a>|
 | Hunting For Stuxbot | <a href="https://github.com/Tom2k5/Threat-Hunting">Here</a>|
 | Research on Attack Techniques in the MITRE ATT&CK      | <a href="https://github.com/Tom2k5/Attacking-Technique">In progress</a> |
-| Shuffle SOAR with Wazuh         | <a href="https://github.com/Tom2k5/SIEM-Project">In progress</a> |
+| Shuffle SOAR with Wazuh         | <a href="https://github.com/Tom2k5/SIEM-Project">Future</a> |
 | Active Directory Attack and Defend         | <a href="https://github.com/Tom2k5/Active-Directory">In progress</a> |
 | AI-driven Window Forensic  | Future |
 | Labs on platforms (Tryhackme, Hackthebox, PortSwigger,…)         | <a href="https://github.com/Tom2k5/Lab-writeups">Here</a> |
